@@ -1,4 +1,5 @@
 # AI-Alignment-Cohort
+![display](AIA.png)
 
 This repository is for **AI-Alignment-Cohort**, a collection of pre-reads, session recordings, and assignments.  
 
