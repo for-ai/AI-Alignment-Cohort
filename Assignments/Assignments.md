@@ -1,6 +1,6 @@
 # AI Alignment Cohort based on Arena Curriculum by Callum McDougall (https://www.arena.education/)
 
-Here are the links to all the recordings of all sessions 
+Here are the links to all the assignments of all sessions 
 - [Assignment 1: Linear Algebra & Information Theory (https://docs.google.com/forms/d/1n--B-8Sfsyn4TteG4RIloTEqJkw6qdILriPr6jn6XUE/edit)]
 - [Assignment 2: Probability and Calculus ()]
 - [Assignment 3: Neural Networks and EINOPS (https://docs.google.com/forms/d/e/1FAIpQLSd6EPPfEfclZl1jhnb1wwldEJ8STVydgc-g1M4cygoSALVI0w/viewform)]
