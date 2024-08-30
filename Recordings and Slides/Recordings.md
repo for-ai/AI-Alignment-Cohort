@@ -1,6 +1,6 @@
 # AI Alignment Cohort based on Arena Curriculum by Callum McDougall (https://www.arena.education/)
 
-Here are the links to all the recordings of all sessions 
+Here are the links to the recordings of all sessions 
 - [Kick Off call (https://drive.google.com/file/d/1uVdl3ZxC5vy5IDLb8X1Dl4-BRwachRdN/view)]
 - [Session 1: Linear  Algebra and Information Theory (https://drive.google.com/file/d/10jEtMnIQKPGtX2TQRLv5eRJlw83CrIgC/view)]  
 - [Session 2: Probability, Statistics & Calculus (https://drive.google.com/file/d/1jfr74ES_c0RxGCt-akP-PnWoOadje6jF/view)]
