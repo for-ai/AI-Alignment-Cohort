@@ -2,7 +2,7 @@
 
 Here are the links to all the assignments per sessions 
 - [Assignment 1: Linear Algebra & Information Theory (https://docs.google.com/forms/d/1n--B-8Sfsyn4TteG4RIloTEqJkw6qdILriPr6jn6XUE/edit)]
-- [Assignment 2: Probability and Calculus ()]
+- [Assignment 2: Probability and Calculus (https://forms.gle/Lj9S89kHsBGR6vpv6)]
 - [Assignment 3: Neural Networks and EINOPS (https://docs.google.com/forms/d/e/1FAIpQLSd6EPPfEfclZl1jhnb1wwldEJ8STVydgc-g1M4cygoSALVI0w/viewform)]
 - [Assignment 4: Ray Tracing, CNNs and ResNets (https://docs.google.com/forms/d/13YL0RMqIxbWHsI36MoH5UIzZLriz-Q3Ayt8FEyjtHUU/edit)]
 - [Assignment 5: Optimization and Backpropagation (https://docs.google.com/forms/d/e/1FAIpQLSdleAPHbsUAlxuoFpSCITA-O9ir5eoYpoZdxmOSl2l5Il417w/viewform)]
