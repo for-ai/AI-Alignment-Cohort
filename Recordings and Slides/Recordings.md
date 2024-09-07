@@ -12,4 +12,8 @@ Here are the links to the recordings of all sessions
 - [Session 8: Introduction to Mechanistic Interpretability (https://drive.google.com/file/d/1z5Q8zkiPcDsYcJO5VD6ChZrzTMy7GvuX/view)]
 - [Session 9: Indirect Object Identification (https://drive.google.com/file/d/1bK9D3lYcf5zSuZgtlyOtNfBhvQ58vK2d/view)]
 - [Session 10: Superposition and Sparse Autoencoders (https://drive.google.com/file/d/1LWVvnCJZ_isTkphfgJNibSWE6DNlmCKY/view?t=8)]
+- [Session 11: Function Vectors and Model Steering (https://drive.google.com/file/d/1KqkmjH70K-5zmpJlaBIfDxeK19ZhZQY-/view)]
+- [Session 12: Othello GPT ()]
+- [Session 13: Balanced Bracket Classifier ()]
+- [Session 14: Grokking and Modular arithmetic (https://drive.google.com/file/d/1giie8u8rTagoKqXeERfQ2AeywtshaNxg/view)]
 
