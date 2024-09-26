@@ -11,7 +11,7 @@ Here are the links to the recordings of all sessions
 - [Session 7: Transformers from Scratch office hours (https://drive.google.com/file/d/1VbQafHA-bY055ZX5YrIpbvSWVa1aiMZ6/view)]
 - [Session 8: Introduction to Mechanistic Interpretability (https://drive.google.com/file/d/1z5Q8zkiPcDsYcJO5VD6ChZrzTMy7GvuX/view)]
 - [Session 9: Indirect Object Identification (https://drive.google.com/file/d/1bK9D3lYcf5zSuZgtlyOtNfBhvQ58vK2d/view)]
-- [Session 10: Superposition and Sparse Autoencoders (https://drive.google.com/file/d/1LWVvnCJZ_isTkphfgJNibSWE6DNlmCKY/view?t=8)]
+- [Session 10: Superposition and SAEs (https://drive.google.com/file/d/1LWVvnCJZ_isTkphfgJNibSWE6DNlmCKY/view?t=8)]
 - [Session 11: Function Vectors and Model Steering (https://drive.google.com/file/d/1KqkmjH70K-5zmpJlaBIfDxeK19ZhZQY-/view)]
 - [Session 12: Othello GPT (https://drive.google.com/file/d/1zrT0PsS2fVdoVh2d65lH-6HGUHg0a-1L/view)]
 - [Session 13: Balanced Bracket Classifier (https://drive.google.com/file/d/1Ls2yPN9aKTp_V__JoZaklGTPx3alCzXv/view)]
