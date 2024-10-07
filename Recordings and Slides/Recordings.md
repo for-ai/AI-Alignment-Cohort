@@ -20,5 +20,5 @@ Here are the links to the recordings of all sessions
 - [Session 16: RL, Q-Learning, DQN (https://drive.google.com/file/d/1jcet1hXBN9O2omm_VMwFPkH3IBf6DVPM/view)]
 - [Session 17: PPO (https://drive.google.com/file/d/12_rwk42Ya77FhPIBwAZ3dAxIuRrrKlSZ/view)]
 - [Session 18: RLHF (https://drive.google.com/file/d/1VpUFhSe3xbRUQaC2KeQXSLym2fUqSAsw/view)]
-- [Guest Speaker Session with Arthur Conmy: ()]
+- [Guest Speaker Session with Arthur Conmy: (https://drive.google.com/file/d/1bocFufiZh5261b1bAss6yLEPyjHmraD5/view)]
 
